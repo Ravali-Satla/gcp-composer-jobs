@@ -12,8 +12,8 @@ The DAG is designed to run periodically and load data from a specific file (`bat
 - Google Cloud Storage
 - BigQuery
 
-## Credits
+## Author
 
-This DAG is created by Ravali Satla.
+Ravali Satla.
 
 
